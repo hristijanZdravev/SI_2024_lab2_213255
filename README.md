@@ -4,5 +4,8 @@
 
 3.Цикломатската комплексност е 10. Користејќи формулата за C=E-N+2 каде N=31,E=39 и броејќи број на површини(R).
 
-4. https://docs.google.com/spreadsheets/d/1EqJ3OOaYcsZlKNV668JvAEWk4fD5rBiXxRw9KSXfaLU/edit?usp=sharing
+4.Овде се покриват сите тест случаеви кој се потребни да се помине секој branch: 
+https://docs.google.com/spreadsheets/d/1EqJ3OOaYcsZlKNV668JvAEWk4fD5rBiXxRw9KSXfaLU/edit?usp=sharing
 
+5.Овде се покриват сите тест случаеви кој се потребни да се задоволи Multiple Condition критериумот:
+https://docs.google.com/spreadsheets/d/1H-yTrmb3iC92IJja1XsZQYBTFy0TRxlELI4oDjSx_O0/edit?usp=sharing
