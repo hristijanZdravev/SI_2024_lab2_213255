@@ -1,2 +1,3 @@
 Христијан Здравев 213255 
-![SI_Graph](https://github.com/hristijanZdravev/SI_2024_lab2_213255/assets/165409790/9300e6d4-c671-4656-a43c-469ee54b8efa)
+2.![SI-Graph](https://github.com/hristijanZdravev/SI_2024_lab2_213255/assets/165409790/286c8f7f-ac4c-40c2-a5ae-0465097f91f3)
+3.Цикломатската комплексност е 10. Користејќи формулата за C=E-N+2 каде N=31,E=39 и броејќи број на површини(R).
